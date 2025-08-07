@@ -1,0 +1,8 @@
+baseURL = 'https://TheDigimeister.github.io/'
+languageCode = 'en-us'
+title = 'The Digimeister'
+theme = 'ananke'
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
