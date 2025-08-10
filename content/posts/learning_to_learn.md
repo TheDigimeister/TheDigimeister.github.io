@@ -1,7 +1,7 @@
 +++
 date = '2025-08-06T22:19:44-07:00'
 draft = false
-title = 'Learning_to_learn'
+title = 'Learning to learn'
 +++
 
 ## Learning to learn: A reading of Brown, Roediger, and McDaniel's "make it stick"

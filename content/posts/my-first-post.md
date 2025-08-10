@@ -9,7 +9,7 @@ title = 'Welcome to my website!'
 
 I'm very excited to finally have a place to document my thoughts and experiences, specifically as they relate to DIY electronics and technology.
 
-Although I may not yet the most cracked programmer on the planet, I'm an avid enjoyer of all things DIY electronics and of exploring the secrets of the universe through understanding its secrets and inner machinations.
+Although I may not yet be the most cracked programmer on the planet, I'm an avid enjoyer of all things DIY electronics and of exploring the secrets of the universe through understanding its secrets and inner machinations.
 
 With this blog, I'll be documenting my learning journeys through myriad domains with the hope of inspiring the next generation of trailblazers and heroes.
 
