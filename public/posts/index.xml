@@ -6,14 +6,21 @@
     <description>Recent content in Posts on The Digimeister</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 06 Aug 2025 20:42:46 -0700</lastBuildDate>
+    <lastBuildDate>Wed, 06 Aug 2025 22:19:44 -0700</lastBuildDate>
     <atom:link href="https://TheDigimeister.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My First Post</title>
+      <title>Learning_to_learn</title>
+      <link>https://TheDigimeister.github.io/posts/learning_to_learn/</link>
+      <pubDate>Wed, 06 Aug 2025 22:19:44 -0700</pubDate>
+      <guid>https://TheDigimeister.github.io/posts/learning_to_learn/</guid>
+      <description>&lt;h2 id=&#34;learning-to-learn-a-reading-of-brown-roediger-and-mcdaniels-make-it-stick&#34;&gt;Learning to learn: A reading of Brown, Roediger, and McDaniel&amp;rsquo;s &amp;ldquo;make it stick&amp;rdquo;&lt;/h2&gt;&#xA;&lt;p&gt;It makes sense that a blog centered on learning about new DIY technologies ought to have an entry about learning itself. Readers may find this ironic since learning &amp;ndash; the method by which a person improves their skills &amp;ndash; is a skill in itself. It takes effort to learn how to learn.&lt;/p&gt;&#xA;&lt;h3 id=&#34;the-core-trinity-of-modern-learning-active-recall-spaced-repetition-and-elaborative-interrogation&#34;&gt;The core trinity of modern learning: Active recall, spaced repetition, and elaborative interrogation&lt;/h3&gt;&#xA;&lt;p&gt;According to ongoing research, the most widely accepted way to effectively and efficiently learn anything is through the use of active recall, spaced repetition, and elaborative interrogation. Active recall is the active practice of retrieving prior knowledge through testing or demonstrations. Spaced repetition is the spreading of practice sessions over a greater period of time. Elaborative interrogation is the expansion of a topic&amp;rsquo;s connections to other knowledge through explorative questioning of that topic.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Welcome to my website!</title>
       <link>https://TheDigimeister.github.io/posts/my-first-post/</link>
       <pubDate>Wed, 06 Aug 2025 20:42:46 -0700</pubDate>
       <guid>https://TheDigimeister.github.io/posts/my-first-post/</guid>
-      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;This is &lt;strong&gt;bold&lt;/strong&gt; text, and this is &lt;em&gt;emphasized&lt;/em&gt; text.&lt;/p&gt;&#xA;&lt;p&gt;Visit the &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; website!&lt;/p&gt;</description>
+      <description>&lt;h2 id=&#34;documenting-my-journey&#34;&gt;Documenting my journey&lt;/h2&gt;&#xA;&lt;p&gt;I&amp;rsquo;m very excited to finally have a place to document my thoughts and experiences, specifically as they relate to DIY electronics and technology.&lt;/p&gt;&#xA;&lt;p&gt;Although I may not yet the most cracked programmer on the planet, I&amp;rsquo;m an avid enjoyer of all things DIY electronics and of exploring the secrets of the universe through understanding its secrets and inner machinations.&lt;/p&gt;&#xA;&lt;p&gt;With this blog, I&amp;rsquo;ll be documenting my learning journeys through myriad domains with the hope of inspiring the next generation of trailblazers and heroes.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
